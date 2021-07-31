@@ -1,0 +1,87 @@
+{
+	"basics": {
+		"name": "ABHISHEK CHOROTIYA",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2020KUEC2033@iiitkota.ac.in",
+		"phone": "8003132368",
+		"website": "",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics & Communication engineering.",
+		"location": {
+			"address": "Gaytri Nagar Beawar Road Nimaj (Pali),Rajasthan",
+			"postalCode": "306303",
+			"city": "Nimaj",
+			"countryCode": "India",
+			"region": "RAJASTHAN"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://twitter.com/abhishekchorot3"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://github.com/AbhishekChorotiya/"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/abhishek-chorotiya-9863551ba/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://www.instagram.com/abhishekchorotiya/"
+			}
+		]
+	},
+	"work": [{
+		"company": "",
+		"position": "",
+		"website": "",
+		"startDate": "",
+		"endDate": "",
+		"summary": " ",
+		"highlights": ["", ""]
+	}],
+	"volunteer": [{
+		"organization": "",
+		"position": "",
+		"website": "",
+		"startDate": "",
+		"endDate": "---",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics & Communication engineering.",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-08 //Date",
+		"endDate": "----",
+		"gpa": "",
+		"courses": [
+			"Electronics & Communication Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "",
+		"awarder": "",
+		"date": ""
+	}],
+	"publications": [{
+		"title": "",
+		"details": "",
+		"link": ""
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "Java", "C/C++", "PHP"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+	}],
+	"references": []
+}
