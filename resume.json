@@ -35,14 +35,23 @@
 				"url": "https://www.instagram.com/abhishekchorotiya/"
 			}
 		]
+	},
+         "work": [{
+		"company": "---",
+		"position": "----",
+		"website": "----",
+		"startDate": "2020-08-04//Take care about Date Format",
+		"endDate": "Date // ",
+		"summary": "---Tell me something About Org. --- ",
+		"highlights": ["Add Highlights", "Your work details"]
 	}],
 	"volunteer": [{
-		"organization": "",
-		"position": "",
-		"website": "",
-		"startDate": "",
-		"endDate": "",
-		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics & Communication engineering.",
+		"organization": "---Name Org ---",
+		"position": "---Add ---",
+		"website": "---",
+		"startDate": "2020-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Description...",
 		"highlights": []
 	}],
 	"education": [{
