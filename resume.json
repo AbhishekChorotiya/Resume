@@ -35,16 +35,7 @@
 				"url": "https://www.instagram.com/abhishekchorotiya/"
 			}
 		]
-	},
-	"work": [{
-		"company": "",
-		"position": "",
-		"website": "",
-		"startDate": "",
-		"endDate": "",
-		"summary": "",
-		"highlights": ["", ""]
-	}],
+	}
 	"volunteer": [{
 		"organization": "",
 		"position": "",
@@ -65,16 +56,7 @@
 			"Electronics & Communication Engineering"
 		]
 	}],
-	"awards": [{
-		"title": "",
-		"awarder": "",
-		"date": ""
-	}],
-	"publications": [{
-		"title": "",
-		"details": "",
-		"link": ""
-	}],
+
 	"skills": [{
 		"level": "Master",
 		"keywords": ["HTML", "CSS", "Javascript", "Java", "C/C++", "PHP"]
