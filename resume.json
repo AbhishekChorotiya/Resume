@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "ABHISHEK CHOROTIYA",
 		"label": "Student",
-		"picture": "https://drive.google.com/file/d/1o9ArcaPNecaJunrC9vdZvU_W-kjTC3vJ/view?usp=sharing",
+		"picture": "https://avatars.githubusercontent.com/AbhishekChorotiya",
 		"email": "2020KUEC2033@iiitkota.ac.in",
 		"phone": "8003132368",
 		"website": "",
@@ -42,7 +42,7 @@
 		"website": "",
 		"startDate": "",
 		"endDate": "",
-		"summary": " ",
+		"summary": "",
 		"highlights": ["", ""]
 	}],
 	"volunteer": [{
@@ -50,7 +50,7 @@
 		"position": "",
 		"website": "",
 		"startDate": "",
-		"endDate": "---",
+		"endDate": "",
 		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics & Communication engineering.",
 		"highlights": []
 	}],
@@ -58,8 +58,8 @@
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2020-12-08 //Date",
-		"endDate": "----",
+		"startDate": "2020-12-08",
+		"endDate": "",
 		"gpa": "",
 		"courses": [
 			"Electronics & Communication Engineering"
